@@ -4,7 +4,7 @@ SWE3002-41.
 
 소프트웨어공학개론
 
-This course involves an overview of modern softare engineering techniques.
+This course involves an overview of modern software engineering techniques.
 
 - Basic concepts and notions on SE
 - Fundamental knowledge on main activities and work products during the process of SE
